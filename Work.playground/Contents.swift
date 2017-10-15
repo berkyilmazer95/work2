@@ -10,7 +10,7 @@ var citiesInBrazil: Array<String> =
 ]
 
 var addinionalBrazilCities = [
-    "Pacapa",
+    "Macapa",
     "Natal",
     "Osasko"
 ]
